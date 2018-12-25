@@ -1,6 +1,7 @@
-baseurl = "https://username.github.io"
+baseurl = "https://aniruddha-chakravarty.github.io/website/"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
+publishDir = "docs"
 title = "Aniruddhas tech blog"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
